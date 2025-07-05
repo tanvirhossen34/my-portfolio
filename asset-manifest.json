@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.c813b2e3.css",
+    "main.js": "/my-portfolio/static/js/main.86fb62af.js",
+    "static/js/453.438d9e50.chunk.js": "/my-portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/tanvie_hossen.jpg": "/my-portfolio/static/media/tanvie_hossen.cb4b25b9dbae7ba3ad92.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.c813b2e3.css.map": "/my-portfolio/static/css/main.c813b2e3.css.map",
+    "main.86fb62af.js.map": "/my-portfolio/static/js/main.86fb62af.js.map",
+    "453.438d9e50.chunk.js.map": "/my-portfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c813b2e3.css",
+    "static/js/main.86fb62af.js"
+  ]
+}
